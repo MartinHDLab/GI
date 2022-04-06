@@ -120,7 +120,7 @@ ix2 = [i for i in range(data_clean.shape[1])]
 data_clean = data_clean[:, ix2]
 
 data_clean = data_clean / maximum
-print(data_clean)
+#print(data_clean)
 
 """
 # this splits the data to test and train
